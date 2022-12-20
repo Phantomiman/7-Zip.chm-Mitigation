@@ -17,3 +17,7 @@ This PowerShell Script made due to the CVE-2022-29072 of RCE and Privilege Eseca
 Removal of 7-zip.chm file , this PSH script detects if the 7-zip.chm file exsists in the Program Files directory and removes it.
 
 This script made for mitigation , for wide network with several endpoints post this script inside startup folder and force restart all the hosts.
+
+
+
+This script works only if the program exists in the Program Files folder.
