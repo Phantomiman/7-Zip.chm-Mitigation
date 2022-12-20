@@ -6,6 +6,8 @@ CVE-2022-29072
 Explaination : 
 https://user-images.githubusercontent.com/33525376/163654035-d40ca72a-7dbc-425f-ade2-3820cfababb2.mp4
 
+Author CVE Founder : 
+https://github.com/kagancapar/CVE-2022-29072
 
 A vulnerability has been discovered in 7-zip, the popular archiving program. This is an active zero-day vulnerability and is characterized as allowing privilege escalation and command execution. In other words, someone with limited access to your computer would be able to gain higher-level control, usually admin access, to run commands or apps. GitHub user Kagancapar seems to have unearthed this 7-zip Windows vulnerability, and it has reference CVE-2022-29072.
 
